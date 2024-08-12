@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\Order\Order\bin\Debug\Order.exe.config
+C:\Users\smail\source\repos\Order\Order\bin\Debug\Order.exe
+C:\Users\smail\source\repos\Order\Order\bin\Debug\Order.pdb
+C:\Users\smail\source\repos\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\Order\Order\obj\Debug\Order.exe
+C:\Users\smail\source\repos\Order\Order\obj\Debug\Order.pdb
