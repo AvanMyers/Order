@@ -13,20 +13,19 @@ namespace Order
             int staticNumber = 7;
             int startedNumber = 5;
             string enteredMesage = "";
-            string end = "end";
+            int lastNumber = 103;
             bool isEnd = false;
 
 
-            Console.WriteLine($"Сложение будет продолжаться пока вы не напишите {end}");
-            Console.WriteLine(startedNumber);
+            Console.WriteLine($"Сложение будет продолжаться пока не достигнет числа  {lastNumber}");
+            Console.Write(startedNumber + " ");
 
             while(isEnd == false)
             {
                 startedNumber += staticNumber;
-                Console.WriteLine(startedNumber);
-                enteredMesage = Console.ReadLine();
+                Console.Write(startedNumber + " ");
 
-                if (enteredMesage == end)
+                if (startedNumber == lastNumber)
                 {
                     isEnd = true;
                 }
